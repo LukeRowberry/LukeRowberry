@@ -2,6 +2,4 @@
 
 - 👀 I’m interested in video games and programming
 
-- 🌱 I’m currently learning Python
-
-- 📫 How to reach me at luke.rowberry@tooeleschools.org
+- 📫 You can reach me at luke.rowberry@tooeleschools.org
